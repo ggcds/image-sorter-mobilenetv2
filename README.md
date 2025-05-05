@@ -78,15 +78,15 @@ Quanto à organização do projeto, as alterações propostas foram adaptadas de
 
 - Imagem original com o rótulo previsto corretamente, com alta confiança (Zebra classificada como Zebra)
 
-![alt text](image-2.png)
+![alt text](./readme_img/image-2.png)
 
 - Imagem original com o rótulo previsto incorretamente ou com baixa confiança (Girafa classificada como Zebra)
 
-![alt text](image-3.png)
+![alt text](./readme_img/image-3.png)
 
 - Visualização da estrutura de diretórios gerada automaticamente em `datasets/val_classified`, mostrando imagens agrupadas por classe prevista
 
-![alt text](image-4.png)
+![alt text](./readme_img/image-4.png)
 
 ---
 
